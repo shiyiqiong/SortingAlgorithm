@@ -7,6 +7,10 @@
 
 - 归并排序
 
-![image](https://github.com/user-attachments/assets/956f5abe-7413-4d20-bb40-915072a97b41)
+  ![image](https://github.com/user-attachments/assets/956f5abe-7413-4d20-bb40-915072a97b41)
 
-- 快速排序
+- 快速排序（基准值）
+
+  ![image](https://github.com/user-attachments/assets/997b597e-040d-4e90-b142-9d68c9720d97)
+
+  
